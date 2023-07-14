@@ -1,0 +1,116 @@
+u[
+    {
+        "basicDetails": {
+            "firstname": "gewgwerg",
+            "lastname": "",
+            "phone": "",
+            "address": {
+                "street": "",
+                "state": "",
+                "city": "",
+                "zipCode": ""
+            },
+            "gender": "",
+            "email": "",
+            "picture": ""
+        },
+        "flightSchedule": {
+            "flightNo": "",
+            "airlineName": "",
+            "tripType": "",
+            "departureAirport": "",
+            "arrivedAirport": "",
+            "departureDate": "",
+            "returnDate": "",
+            "seatClass": "",
+            "photo": null
+        },
+        "ticketPurchase": {
+            "fullName": "",
+            "cardnumber": "",
+            "paymentDateTime": "",
+            "Phone": "",
+            "month": "",
+            "cvv": ""
+        },
+        "gstDetails": {
+            "gstNumber": "",
+            "companyName": "",
+            "companyaddress": {
+                "companystreet": "",
+                "companyState": "",
+                "companyCity": "",
+                "companyZipcode": ""
+            }
+        },
+        "contactInformation": {
+            "mobilePhone": "",
+            "emergencyContactNumber": "",
+            "emergencyContactName": "",
+            "currentaddress": {
+                "currentstreet": "",
+                "currentState": "",
+                "currentCity": "",
+                "currentZipcode": ""
+            }
+        },
+        "id": "1689167544272"
+    },
+    {
+        "basicDetails": {
+            "firstname": "sejal    ",
+            "lastname": "",
+            "phone": "",
+            "address": {
+                "street": "",
+                "state": "",
+                "city": "",
+                "zipCode": ""
+            },
+            "gender": "",
+            "email": "",
+            "picture": ""
+        },
+        "flightSchedule": {
+            "flightNo": "",
+            "airlineName": "",
+            "tripType": "",
+            "departureAirport": "",
+            "arrivedAirport": "",
+            "departureDate": "",
+            "returnDate": "",
+            "seatClass": "",
+            "photo": null
+        },
+        "ticketPurchase": {
+            "fullName": "",
+            "cardnumber": "",
+            "paymentDateTime": "",
+            "Phone": "",
+            "month": "",
+            "cvv": ""
+        },
+        "gstDetails": {
+            "gstNumber": "",
+            "companyName": "",
+            "companyaddress": {
+                "companystreet": "",
+                "companyState": "",
+                "companyCity": "",
+                "companyZipcode": ""
+            }
+        },
+        "contactInformation": {
+            "mobilePhone": "",
+            "emergencyContactNumber": "",
+            "emergencyContactName": "",
+            "currentaddress": {
+                "currentstreet": "",
+                "currentState": "",
+                "currentCity": "",
+                "currentZipcode": ""
+            }
+        },
+        "id": "1689167553192"
+    }
+]

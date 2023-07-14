@@ -1,0 +1,20 @@
+{
+  "states": [
+    {
+      "state": "Gujarat",
+      "cities": ["Ahmedabad", "Rajkot", "Surat"]
+    },
+    {
+      "state": "Uttarakhand",
+      "cities": ["Dehradun", "Haridwar","Uttarkashi"]
+    },
+    {
+      "state": "Uttar Pradesh",
+      "cities": ["Lucknow", "Varanasi", "ayodhya"]
+    },
+     {
+      "state": "Madhya Pradesh",
+      "cities": ["Ujjain", "indore"]
+    }
+  ]
+}
